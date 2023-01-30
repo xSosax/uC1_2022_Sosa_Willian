@@ -25,4 +25,5 @@ P2-Display_7SEG.s --> permita mostrar los valores alfanuméricos (0-9 y AF) en u
 P3-Contador_7SEG_7447.s --> permite hacer un contador ascendente y descendente del 0-99 con un decodificador BCD 7SEG 7447.
 
 ----- PARCIAL 02 -----
+
 Ejercicio2 --> Interrupciones con prioridades, usando pulsadores externos para una secuencia de leds con un programa principal de toogle led.
